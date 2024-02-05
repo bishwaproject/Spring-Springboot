@@ -1,5 +1,7 @@
 **HBU Academey is an online educational curriculum that aims at improving and modernizing a virtual classroom.**
+
 *A scalable design was needed*
+
 **Challenges of HBU**
 1. HBU needs a platform for students to learn such subject expertise online.
 2. Students need to interact with instructors and administrators through its platform.
